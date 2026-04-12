@@ -12,13 +12,3 @@ To get started with BAAgents:
    git clone https://github.com/MalarpriyaM/BAAgents.git
    ```
 
-2. **Install Dependencies**:
-   Navigate to the project directory and run:
-   ```bash
-   npm install
-   ```
-
-3. **Run the Application**:
-   ```bash
-   npm start
-   ```
